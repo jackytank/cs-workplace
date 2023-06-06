@@ -1,4 +1,5 @@
 using ContosoPizza.Models;
+using Humanizer;
 
 public static class PizzaService
 {
@@ -43,5 +44,13 @@ public static class PizzaService
         var index = Pizzas.FindIndex(p => p.Id == pizza.Id);
         if (index == -1) { return; }
         Pizzas[index] = pizza;
+    }
+
+    public static void HumanizeDates()
+    {
+        Console.WriteLine(DateTime.UtcNow.AddHours(-24).Humanize());
+        Console.WriteLine(DateTime.UtcNow.AddHours(-2).Humanize());
+        Console.WriteLine(TimeSpan.FromDays(1).Humanize());
+        Console.WriteLine(TimeSpan.FromDays(16).Humanize());
     }
 }

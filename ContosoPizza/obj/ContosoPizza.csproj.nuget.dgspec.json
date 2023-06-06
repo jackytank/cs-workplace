@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\balis\\Desktop\\ContosoPizza\\ContosoPizza.csproj": {}
+    "C:\\Users\\balis\\Desktop\\C#-workplace\\ContosoPizza\\ContosoPizza.csproj": {}
   },
   "projects": {
-    "C:\\Users\\balis\\Desktop\\ContosoPizza\\ContosoPizza.csproj": {
+    "C:\\Users\\balis\\Desktop\\C#-workplace\\ContosoPizza\\ContosoPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\balis\\Desktop\\ContosoPizza\\ContosoPizza.csproj",
+        "projectUniqueName": "C:\\Users\\balis\\Desktop\\C#-workplace\\ContosoPizza\\ContosoPizza.csproj",
         "projectName": "ContosoPizza",
-        "projectPath": "C:\\Users\\balis\\Desktop\\ContosoPizza\\ContosoPizza.csproj",
+        "projectPath": "C:\\Users\\balis\\Desktop\\C#-workplace\\ContosoPizza\\ContosoPizza.csproj",
         "packagesPath": "C:\\Users\\balis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\balis\\Desktop\\ContosoPizza\\obj\\",
+        "outputPath": "C:\\Users\\balis\\Desktop\\C#-workplace\\ContosoPizza\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,6 +45,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Humanizer": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
