@@ -13,3 +13,5 @@ C:\Users\balis\Desktop\C#-workplace\mslearn-dotnet-files\obj\Debug\net7.0\refint
 C:\Users\balis\Desktop\C#-workplace\mslearn-dotnet-files\obj\Debug\net7.0\mslearn-dotnet-files.pdb
 C:\Users\balis\Desktop\C#-workplace\mslearn-dotnet-files\obj\Debug\net7.0\mslearn-dotnet-files.genruntimeconfig.cache
 C:\Users\balis\Desktop\C#-workplace\mslearn-dotnet-files\obj\Debug\net7.0\ref\mslearn-dotnet-files.dll
+C:\Users\balis\Desktop\C#-workplace\mslearn-dotnet-files\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\balis\Desktop\C#-workplace\mslearn-dotnet-files\obj\Debug\net7.0\mslearn-dotnet-files.csproj.CopyComplete
