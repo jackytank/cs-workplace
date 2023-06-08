@@ -1,0 +1,15 @@
+C:\Users\balis\Desktop\C#-workplace\mslearn-dotnet-files\bin\Debug\net7.0\mslearn-dotnet-files.exe
+C:\Users\balis\Desktop\C#-workplace\mslearn-dotnet-files\bin\Debug\net7.0\mslearn-dotnet-files.deps.json
+C:\Users\balis\Desktop\C#-workplace\mslearn-dotnet-files\bin\Debug\net7.0\mslearn-dotnet-files.runtimeconfig.json
+C:\Users\balis\Desktop\C#-workplace\mslearn-dotnet-files\bin\Debug\net7.0\mslearn-dotnet-files.dll
+C:\Users\balis\Desktop\C#-workplace\mslearn-dotnet-files\bin\Debug\net7.0\mslearn-dotnet-files.pdb
+C:\Users\balis\Desktop\C#-workplace\mslearn-dotnet-files\obj\Debug\net7.0\mslearn-dotnet-files.csproj.AssemblyReference.cache
+C:\Users\balis\Desktop\C#-workplace\mslearn-dotnet-files\obj\Debug\net7.0\mslearn-dotnet-files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balis\Desktop\C#-workplace\mslearn-dotnet-files\obj\Debug\net7.0\mslearn-dotnet-files.AssemblyInfoInputs.cache
+C:\Users\balis\Desktop\C#-workplace\mslearn-dotnet-files\obj\Debug\net7.0\mslearn-dotnet-files.AssemblyInfo.cs
+C:\Users\balis\Desktop\C#-workplace\mslearn-dotnet-files\obj\Debug\net7.0\mslearn-dotnet-files.csproj.CoreCompileInputs.cache
+C:\Users\balis\Desktop\C#-workplace\mslearn-dotnet-files\obj\Debug\net7.0\mslearn-dotnet-files.dll
+C:\Users\balis\Desktop\C#-workplace\mslearn-dotnet-files\obj\Debug\net7.0\refint\mslearn-dotnet-files.dll
+C:\Users\balis\Desktop\C#-workplace\mslearn-dotnet-files\obj\Debug\net7.0\mslearn-dotnet-files.pdb
+C:\Users\balis\Desktop\C#-workplace\mslearn-dotnet-files\obj\Debug\net7.0\mslearn-dotnet-files.genruntimeconfig.cache
+C:\Users\balis\Desktop\C#-workplace\mslearn-dotnet-files\obj\Debug\net7.0\ref\mslearn-dotnet-files.dll
